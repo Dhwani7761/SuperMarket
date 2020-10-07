@@ -1,0 +1,7 @@
+psvm(){
+public void run(){
+}
+Thread.sleep(5000);
+nextframe.setVisible(true);
+this.hide();
+}
